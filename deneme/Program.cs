@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace deneme
+namespace RefAndOut
 {
     class Program
     {
