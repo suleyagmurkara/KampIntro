@@ -68,8 +68,6 @@ namespace ConsoleApp1
                 return oran;
             }
             Console.WriteLine(dersBitirmeOrani(4));
-
-
         }
     }
 }
